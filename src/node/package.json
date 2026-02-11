@@ -2,7 +2,8 @@
   "private": true,
   "workspaces": [
     "toolchain/frontend",
-    "toolchain/pants-demo-site"
+    "toolchain/pants-demo-site",
+    "toolchain/pants-visualizer"
   ],
   "resolutions": {
     "@types/react": "*"
